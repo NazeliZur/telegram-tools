@@ -142,8 +142,36 @@ pip install -r requirements.txt
 
 ---
 
+## Warning
+
+This project uses the Telegram API through the Telethon client.
+By using this project, you agree to:
+
+Follow the Telegram Terms of Service and Telegram API Terms.
+
+Respect user privacy and do not use these tools for scraping, spamming, or violating Telegram community guidelines.
+
+Only use your own Telegram account and only download data from groups or channels you are legally allowed to access.
+
+Avoid sending automated messages or performing actions that could be considered abusive or in violation of Telegram rules.
+
+Important: Abuse of the Telegram API may lead to account restrictions, bans, or legal consequences.
+You are fully responsible for your actions when using this toolkit.
+
+---
+
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
 
----
+
+
+
+
+
+
+
+
+
+
+
